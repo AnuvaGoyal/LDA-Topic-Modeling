@@ -1,4 +1,4 @@
-# LDA-Topic-Modeling
+# LDA-Topic-Modeling on News Articles
 
 ### Steps Involved:
 1. Scraping the news articles from The Hindu Website for 14 days.
